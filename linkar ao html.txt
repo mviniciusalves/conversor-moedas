@@ -1,0 +1,8 @@
+- Adicionar CSS em uma linha após o elemento <title>:
+
+<link rel="stylesheet" href="nome_do_arquivo.css">
+
+
+- Adicionar JavaScript em uma nova linha antes do elemento </body>:
+
+<script src="nome_do_arquivo.js"></script>
